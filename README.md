@@ -38,11 +38,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
   
-  <!-- JWT (Use text) -->
-  <span style="font-size: 2rem; margin-right: 12px;">JWT</span>
-  
-  <!-- SQL (Use text) -->
-  <span style="font-size: 2rem; margin-right: 12px;">SQL</span>
+  <!-- SQL -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
   
   <!-- CSS -->
   <img width="12" />
@@ -52,6 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="bootstrap5 logo" />
 </div>
+
 
 
 

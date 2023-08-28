@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning ..<br>
+<p align="left">✨ Creating bugs since 2022.<br>📚 i am currently seeking new opportunities.<br>
 <!--   🎯 Goals: ...<br>🎲 Fun fact: ... -->
 </p>
 

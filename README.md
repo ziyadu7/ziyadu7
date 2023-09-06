@@ -1,8 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
-<p align="left">My name is Muhammed Ziyad and I'm a Mern stack developer, from Kerala</p>
+<p align="left">My name is Muhammed Ziyad and I'm a Self-motivated and hardworking Mern stack developer, from Kerala</p>
 
 ###
 
@@ -10,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 i am currently seeking new opportunities.<br>
+<p align="left">✨ Creating bugs since 2022.<br>📚 i am currently seeking new opportunity to work in a challenging environment to prove my skills and utilize my knowledge & intelligence in the growth of the organization.<br>
 <!--   🎯 Goals: ...<br>🎲 Fun fact: ... -->
 </p>
 
